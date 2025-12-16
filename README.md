@@ -1,55 +1,63 @@
 📚 ScholarJoint
 
-A Web-Based Conference and Journal Management System
+Web-Based Conference and Journal Management System
 
-ScholarJoint is a comprehensive academic conference and journal management platform designed to handle the full lifecycle of scholarly submissions, peer review, decision-making, and publication-related payments.
+ScholarJoint is an academic management platform designed to support the complete lifecycle of scholarly submissions, peer review, decision-making, and publication payments through a structured, role-based workflow.
 
-The system is built to support Admins (conference organizers), Authors (researchers), and Reviewers (peer evaluators) through clearly defined, role-based workflows that ensure transparency, efficiency, and academic integrity.
+🎯 Overview
+
+Manages abstracts, full papers, reviews, and decisions in one system
+
+Supports Admins, Authors, and Reviewers with clearly defined roles
+
+Ensures transparency, efficiency, and academic integrity
+
+Suitable for conferences, journals, and academic events
 
 ✨ Core Features
 
-Role-based access control for Admins, Authors, and Reviewers
+Role-based access control
 
-End-to-end management of abstracts, papers, reviews, and decisions
+End-to-end submission and review workflow
 
-Configurable deadlines, submission rules, and review processes
+Configurable deadlines and submission rules
 
-Secure handling of academic documents and reviewer feedback
+Secure document handling
 
 Integrated payment and invoicing support
+
+Automated notifications and reminders
 
 👤 User Roles & Capabilities
 🛠 Admin (Conference Chair / Secretary)
 
-Admins oversee and manage the entire conference or journal process.
+Create and configure conferences
 
-Create and configure conferences and submission timelines
+Define abstract and full paper submission rules
 
-Define abstract and full paper requirements
+Set and manage submission deadlines
 
 Create and manage conference tracks
 
-Invite and assign reviewers to submissions
+Invite and assign reviewers
 
-Monitor submission status and review progress
+Monitor review progress and submission status
 
 Accept, reject, or request revisions
 
-Control abstract-to-full-paper progression
+Control abstract-to-full-paper transitions
 
 Manage author payments and verify transactions
 
-Send announcements and deadline reminders
+Send announcements and reminders
 
-Export submission, reviewer, and author data
+Export submissions, reviewers, and authors data
 
-View detailed activity and audit logs
+View system activity and audit logs
 
 ✍️ Author (Researcher)
 
-Authors submit and manage their academic work.
-
-Register and maintain academic profiles
+Register and manage academic profiles
 
 Submit abstracts within defined deadlines
 
@@ -59,25 +67,21 @@ Track submission status and history
 
 Upload full papers after abstract acceptance
 
-Submit revised versions when required
+Submit revised versions when requested
 
 View reviewer feedback shared by Admin
 
 Make conference or publication payments
 
-Download invoices and payment receipts
+Download invoices and receipts
 
 Manage multiple submissions across conferences
 
-Authors cannot access reviewer identities or other authors’ submissions.
-
 🧑‍⚖️ Reviewer (Peer Reviewer)
-
-Reviewers evaluate assigned submissions anonymously.
 
 Accept or decline review invitations
 
-Access only assigned papers
+Access only assigned submissions
 
 Download full paper documents
 
@@ -85,17 +89,15 @@ Submit structured reviews with scores and comments
 
 Upload annotated review files
 
-Track review deadlines and history
+Track review history and deadlines
 
 Receive automated reminder notifications
-
-Reviewers cannot view author identities or other reviewers’ feedback.
 
 🔁 Submission & Review Workflow
 
 User registration and email verification
 
-Abstract submission by author
+Abstract submission by authors
 
 Initial admin screening
 
@@ -111,13 +113,21 @@ Final decision
 
 Payment and confirmation
 
-Each step is governed by configurable rules and deadlines set by the Admin.
-
 🧩 Submission Management
 
 Track-based categorization of submissions
 
-Status-driven workflow (Pending, Under Review, Accepted, Rejected, Revision Requested)
+Status-driven workflow:
+
+Pending
+
+Under Review
+
+Accepted
+
+Rejected
+
+Revision Requested
 
 Version control for revised submissions
 
@@ -125,7 +135,7 @@ Timestamped submission history
 
 💳 Payments & Invoicing
 
-Supports online and manual payment workflows
+Support for online and manual payment workflows
 
 Integration-ready for payment gateways
 
@@ -137,7 +147,7 @@ Admin verification for offline payments
 
 Automated email notifications for key actions
 
-Review and submission deadline reminders
+Submission and review deadline reminders
 
 Admin-triggered announcements
 
@@ -157,8 +167,6 @@ Payments: Payment gateway integrations
 
 Email: Transactional email services
 
-(Implementation details may vary.)
-
 🎯 Intended Use Cases
 
 Academic conferences
@@ -173,4 +181,10 @@ Peer-reviewed academic events
 
 🚀 Project Vision
 
-ScholarJoint aims to simplify and modernize academic publishing workflows by reducing administrative overhead, improving transparency, and supporting scalable academic collaboration.
+Reduce administrative overhead
+
+Improve transparency in peer review
+
+Support scalable academic collaboration
+
+Provide a modern alternative to legacy academic systems
